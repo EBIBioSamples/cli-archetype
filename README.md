@@ -1,3 +1,9 @@
+# !!! WARNING: Repository has moved !!!
+
+For pratical reasons, now I maintain this project under 
+[a new repository](https://github.com/marco-brandizi/cli-archetype).
+
+
 # The Command Line Archetype
 
 This is a [Maven Archetype project][10], to create Maven project that produce command line packages.  
